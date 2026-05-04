@@ -31,7 +31,6 @@ MANIFEST
 #  version of a module to optimize loading time. PyInstaller gives a list of
 #  files to exclude in its .spec file, so this is just a backup.
 *.manifest
-*.spec
 
 # Installer logs
 pip-log.txt
