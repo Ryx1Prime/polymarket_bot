@@ -1,0 +1,7 @@
+py-clob-client
+web3
+requests
+websocket-client
+customtkinter
+cryptography
+darkdetect
